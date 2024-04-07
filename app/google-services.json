@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500865439652",
+    "project_id": "medicapp-8ffbe",
+    "storage_bucket": "medicapp-8ffbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500865439652:android:44cfc06e88a3cbfaf9d331",
+        "android_client_info": {
+          "package_name": "com.example.medicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALYLY2_bQcHwQLQN1ZD5pFo6AXRZQBJlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
